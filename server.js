@@ -1,9 +1,9 @@
 //By:  Tᴀɪʀᴀ Mᴀᴋɪɴᴏ
-//https://wa.me/2347080968564
+//https://wa.me/254799097390
 //https://github.com/anonphoenix007
 //https://t.me/Taira_makino
-//https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K
-//https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk
+//https://whatsapp.com/channel/
+//https://chat.whatsapp.com/
 
 const {
    spawn
